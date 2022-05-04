@@ -19,4 +19,3 @@ console.log(pessoa.nome);
 pessoa.nome = "Beltrano";
 
 console.log(pessoa2.nome);
-

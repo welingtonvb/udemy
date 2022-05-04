@@ -9,7 +9,3 @@ console.log(nums.slice(2));
 console.log(nums.slice(-2));
 
 console.log(nums.slice(3,-2));
-
-
-
-
